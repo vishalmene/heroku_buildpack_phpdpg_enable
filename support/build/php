@@ -106,6 +106,7 @@ export PATH=${OUT_PREFIX}/bin:$PATH
         --with-ldap-sasl \
     --enable-mbstring=shared \
     --enable-pcntl=shared \
+    --enable-xdebug=shared \
     --enable-shmop=shared \
     --enable-soap=shared \
     --with-sqlite3=shared \
